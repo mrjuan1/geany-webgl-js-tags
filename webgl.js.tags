@@ -5,6 +5,7 @@ stencil|GLboolean||
 antialias|GLboolean||
 premultipliedAlpha|GLboolean||
 preserveDrawingBuffer|GLboolean||
+powerPreference|WebGLPowerPreference||
 preferLowPowerToHighPerformance|GLboolean||
 failIfMajorPerformanceCaveat|GLboolean||
 DEPTH_BUFFER_BIT|GLenum||
